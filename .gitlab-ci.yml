@@ -1,0 +1,5 @@
+include:
+
+  - project: dtolk/dope/pipelines
+    ref: main
+    file: terraform.yml

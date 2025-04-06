@@ -1,0 +1,6 @@
+http:
+  middlewares:
+    set-accept-header:
+      headers:
+        customRequestHeaders:
+          Accept: "application/json"
